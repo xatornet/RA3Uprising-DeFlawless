@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DeFlawless.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\DeFlawless.dir/objects.a @CMakeFiles\DeFlawless.dir\objects1.rsp
+C:\TDM-GCC-64\bin\c++.exe -shared -o DeFlawless.asi -Wl,--out-implib,libDeFlawless.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\DeFlawless.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\DeFlawless.dir\linkLibs.rsp
