@@ -1,0 +1,3 @@
+C:/Users/Alex/Documents/IAProjects/DeFlawless/build32/CMakeFiles/DeFlawless.dir
+C:/Users/Alex/Documents/IAProjects/DeFlawless/build32/CMakeFiles/edit_cache.dir
+C:/Users/Alex/Documents/IAProjects/DeFlawless/build32/CMakeFiles/rebuild_cache.dir
